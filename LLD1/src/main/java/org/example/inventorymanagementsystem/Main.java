@@ -1,3 +1,5 @@
+package org.example.inventorymanagementsystem;
+
 import java.util.*;
 import java.util.concurrent.*;
 
